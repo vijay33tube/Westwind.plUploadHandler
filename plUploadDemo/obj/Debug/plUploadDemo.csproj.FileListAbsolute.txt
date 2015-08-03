@@ -1,0 +1,8 @@
+C:\Projects\Westwind.plUploadHandler\plUploadDemo\bin\plUploadDemo.dll.config
+C:\Projects\Westwind.plUploadHandler\plUploadDemo\bin\plUploadDemo.dll
+C:\Projects\Westwind.plUploadHandler\plUploadDemo\bin\plUploadDemo.pdb
+C:\Projects\Westwind.plUploadHandler\plUploadDemo\bin\plUploadHandler.dll
+C:\Projects\Westwind.plUploadHandler\plUploadDemo\bin\plUploadHandler.pdb
+C:\Projects\Westwind.plUploadHandler\plUploadDemo\obj\Debug\plUploadDemo.csprojResolveAssemblyReference.cache
+C:\Projects\Westwind.plUploadHandler\plUploadDemo\obj\Debug\plUploadDemo.dll
+C:\Projects\Westwind.plUploadHandler\plUploadDemo\obj\Debug\plUploadDemo.pdb

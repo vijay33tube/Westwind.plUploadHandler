@@ -1,0 +1,6 @@
+C:\Projects\Westwind.plUploadHandler\Westwind.plUploadHandler\bin\Debug\plUploadHandler.dll
+C:\Projects\Westwind.plUploadHandler\Westwind.plUploadHandler\bin\Debug\plUploadHandler.pdb
+C:\Projects\Westwind.plUploadHandler\Westwind.plUploadHandler\obj\Debug\plUploadHandler.Properties.Resources.resources
+C:\Projects\Westwind.plUploadHandler\Westwind.plUploadHandler\obj\Debug\Westwind.plUploadHandler.csproj.GenerateResource.Cache
+C:\Projects\Westwind.plUploadHandler\Westwind.plUploadHandler\obj\Debug\plUploadHandler.dll
+C:\Projects\Westwind.plUploadHandler\Westwind.plUploadHandler\obj\Debug\plUploadHandler.pdb
